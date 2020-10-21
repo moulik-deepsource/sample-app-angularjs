@@ -7,3 +7,4 @@ enabled = true
   [analyzers.meta]
   plugins = ["angularjs"]
   environment = ["browser"]
+  module_system = "es-modules"
